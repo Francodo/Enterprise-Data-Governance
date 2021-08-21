@@ -4,7 +4,7 @@ Francis Odo
 
 Background
 
-Hall of Sneakers is a fictional online trading company. The store provides a trading platform for Sellers and Buyers of used Sneakers.
+Hall of Sneakers is an imaginary online trading company that provides e-Commerce platform for Sellers and Buyers of used Sneakers.
 Buyers can bid for shoes or buy them outright, and sellers can set a price or sell to the highest bidder. Each buyer and seller must have an active account in order to sell, bid, or purchase sneakers using Hall of Sneaker’s website.
 
 Sneaker shoes are inspected and authenticated before being listed. So, before listing an item, the seller must ship it to Hall of Snekers’s warehouse. Upon receipt, Hall of Sneakers assigns an item number to each pair of sneakers and notifies the seller that they are now free to list their item. If the item is not listed within 45 days, SneakerPark returns the sneakers to the seller and sends an invoice to the seller for the shipping cost.
